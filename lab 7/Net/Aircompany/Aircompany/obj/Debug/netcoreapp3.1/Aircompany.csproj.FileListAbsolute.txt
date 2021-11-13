@@ -1,0 +1,13 @@
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.exe
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.deps.json
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.json
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.dev.json
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.dll
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.pdb
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csprojAssemblyReference.cache
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfoInputs.cache
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfo.cs
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csproj.CoreCompileInputs.cache
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.dll
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.pdb
+D:\лабы\epam\lab 7\Net\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.genruntimeconfig.cache
