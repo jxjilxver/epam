@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj": {}
+    "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj": {}
   },
   "projects": {
-    "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj": {
+    "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj",
+        "projectUniqueName": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj",
         "projectName": "AircompanyTests",
-        "projectPath": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj",
+        "projectPath": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\AircompanyTests\\AircompanyTests.csproj",
         "packagesPath": "C:\\Users\\murug\\.nuget\\packages\\",
-        "outputPath": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\AircompanyTests\\obj\\",
+        "outputPath": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\AircompanyTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murug\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj": {
-                "projectPath": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj"
+              "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj": {
+                "projectPath": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj"
               }
             }
           }
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -76,29 +76,29 @@
         }
       }
     },
-    "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj": {
+    "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj",
+        "projectUniqueName": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj",
         "projectName": "Aircompany",
-        "projectPath": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj",
+        "projectPath": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\Aircompany.csproj",
         "packagesPath": "C:\\Users\\murug\\.nuget\\packages\\",
-        "outputPath": "D:\\лабы\\epam\\lab 7\\Net\\Aircompany\\Aircompany\\obj\\",
+        "outputPath": "D:\\лабы\\epam\\lab7\\Net\\Aircompany\\Aircompany\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\murug\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -109,8 +109,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
