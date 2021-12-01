@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tJYMarL03NupvRNGj0OBe64hCzGyE0nR/Tgl2ecUBa0u4VGrJ7deWOSPa2RLUj12Jc8hFAv5n10RtFLg6waGrA==",
+  "dgSpecHash": "ziI8pU+fM+MDZmTxi+6erL2Vr3MAdn4bkkj/8Ud/rMLkX5ihLo6Yc6ZJ2EYKCItwXHcr5qt0KCzeYlmXwFtXUw==",
   "success": true,
   "projectFilePath": "D:\\лабы\\epam\\lab8\\Forexclub\\Forexclub\\Forexclub.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\murug\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
@@ -19,6 +20,7 @@
     "C:\\Users\\murug\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\murug\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.6900\\selenium.webdriver.chromedriver.95.0.4638.6900.nupkg.sha512",
     "C:\\Users\\murug\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",

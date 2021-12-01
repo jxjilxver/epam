@@ -98,3 +98,5 @@ D:\лабы\epam\lab8\Forexclub\Forexclub\obj\Debug\net5.0\Forexclub.dll
 D:\лабы\epam\lab8\Forexclub\Forexclub\obj\Debug\net5.0\ref\Forexclub.dll
 D:\лабы\epam\lab8\Forexclub\Forexclub\obj\Debug\net5.0\Forexclub.pdb
 D:\лабы\epam\lab8\Forexclub\Forexclub\obj\Debug\net5.0\Forexclub.genruntimeconfig.cache
+D:\лабы\epam\lab8\Forexclub\Forexclub\bin\Debug\net5.0\WebDriver.Support.dll
+D:\лабы\epam\lab8\Forexclub\Forexclub\bin\Debug\net5.0\SeleniumExtras.WaitHelpers.dll
