@@ -26,11 +26,5 @@ namespace Forexclub
             mainPage.OpenBetPage().PlaceBet("60000");//the maximum possible balance of the demo account is $50,000, so we specify $60,000
             Assert.IsTrue(new BetPageObject(_driver).IsErrorVisible);//checking for an error notification
         }
-
-        [TearDown]
-        public void TeadDown()
-        {
-            _driver.Quit();
-        }
     }
 }
