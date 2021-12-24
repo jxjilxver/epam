@@ -1,0 +1,11 @@
+{
+  "TestsSettings": {
+    "User": {
+      "email": "jxjilxver@mail.ru",
+      "password": "7355608"
+    },
+    "Browser": {
+      "browserName": "chrome"
+    }
+  }
+}
